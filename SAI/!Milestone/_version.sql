@@ -1,0 +1,1 @@
+UPDATE `version` SET `db_version`=('SkyFire DB NG Release <3> 2012_3_04 & "patch" SmartAI Lab 406.01');
